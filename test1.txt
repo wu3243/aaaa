@@ -1,0 +1,8 @@
+void main()
+{
+	int a, b, c;
+	a = 10;
+	b = 20;
+	c = (a+b)/2;
+	printf("the average of a and b is: %d", c);
+}
